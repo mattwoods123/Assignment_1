@@ -1,0 +1,3 @@
+Welcome to Connect Four
+
+This is a game of connect four that is printed out out the console. the goal of the game is to connect four of your peice on the board before your oppenent. The player that goes first is selected randomly in the beginning so choose who is player one before you start playing. When the game starts each player can choose between 1-7 columns to place their token. Good luck and have fun. 
